@@ -12,6 +12,10 @@
 * ISTRICI
 * MICETTI
 
+
+![lapislazzulo](lp.jpg)
+
+
 #### HEADER 3
 
 > CHETTHITARABAISETTABAITIRIZZECCAI
