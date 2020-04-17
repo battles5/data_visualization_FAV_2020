@@ -1,2 +1,28 @@
-# data_visualization_FAV_2020
-corso di data visualization FAV
+# Data visualization
+
+## HEADER 1
+
+1. CANI
+2. TRICETI
+3. MAMMA PICCIONA
+
+### HEADER 2
+
+* TREX
+* ISTRICI
+* MICETTI
+
+#### HEADER 3
+
+> CHETTHITARABAISETTABAITIRIZZECCAI
+
+il blocchetto soprastante serve per le citazioni o per mettere in risalto qualcosa
+
+**CON QUESTO METTIAMO IL GRASSETTO**
+
+comunque andate su github markdoun tutorial e scattano le istruzioni
+
+```
+import panda as pd
+
+```
