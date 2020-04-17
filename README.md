@@ -14,7 +14,7 @@
 * ISTRICI
 * MICETTI
 
-
+![grafico](https://www.swissguns.ch/illust/41-5.jpg)
 ![grafico](image-pandas.png)
 
 
