@@ -2,6 +2,8 @@
 
 ## HEADER 1
 
+![quarzo](qc.jpg)
+
 1. CANI
 2. TRICETI
 3. MAMMA PICCIONA
