@@ -15,7 +15,7 @@
 * MICETTI
 
 
-![lapislazzulo](lp.jpg)
+![grafico](image-pandas.png)
 
 
 #### HEADER 3
